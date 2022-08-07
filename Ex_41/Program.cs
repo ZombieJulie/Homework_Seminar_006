@@ -13,4 +13,4 @@ int CheckPositive(int[] arr)
     }
     return count;
 }
-Console.WriteLine($"Кол-во элементов больше 0: {CheckPositive(array)}");
+Console.WriteLine($"Количество элементов больше 0: {CheckPositive(array)}");
